@@ -30,7 +30,12 @@ class CalendarContainer extends StatelessWidget {
         padding: const EdgeInsets.symmetric(horizontal: 0.5, vertical: 0.5),
         child: Row(
           children: [
-            SvgPicture.asset(svg),
+            Container(
+              height: 20,
+              width: 20,
+              decoration: BoxDecoration(color: AppColor.shoshilingcontainer1, borderRadius: BorderRadius.circular(10)),
+              child: Center(child: SvgPicture.asset(svg)),
+            ),
             SizedBox(
               width: 3,
             ),
@@ -59,7 +64,9 @@ class CalendarContainer extends StatelessWidget {
                 ),
               ],
             ),
-            SizedBox(width: 2,),
+            SizedBox(
+              width: 2,
+            ),
             Text(
               text2,
               style: TextStyle(
