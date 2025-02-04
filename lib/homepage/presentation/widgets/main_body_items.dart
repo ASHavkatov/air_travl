@@ -121,7 +121,7 @@ class _MainBodyItemsState extends State<MainBodyItems> {
                 ),
                 GestureDetector(
                   onTap: () {
-                    context.go("/air_travel");
+                    context.go("/detail");
                   },
                   child: WidgetlarToplami(
                     image: 'assets/images/places/makka.png',
