@@ -140,7 +140,7 @@ class DetailPage extends StatelessWidget {
                 ],
               ),
               SizedBox(height: 10),
-              Savatga()
+              Savatga(),
             ],
           ),
         ],
