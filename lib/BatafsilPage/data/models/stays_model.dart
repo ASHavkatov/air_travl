@@ -1,4 +1,3 @@
-import 'package:treval_app/BatafsilPage/data/models/features_model.dart';
 
 class StaysModel {
   final int id, days;

@@ -9,7 +9,6 @@ import 'package:treval_app/air_travel/presentation/widgets/text_container.dart';
 import 'package:treval_app/air_travel/presentation/widgets/texts_main.dart';
 import 'package:treval_app/core/utils/colors.dart';
 import 'package:treval_app/homepage/presentation/widgets/navigation_bar.dart';
-import 'package:treval_app/homepage/presentation/widgets/time_container.dart';
 
 class DetailPage extends StatelessWidget {
   const DetailPage({super.key});

@@ -10,8 +10,6 @@ import 'package:treval_app/homepage/presentation/widgets/heart_container.dart';
 import 'package:treval_app/homepage/presentation/widgets/siz_plus.dart';
 import 'package:treval_app/homepage/presentation/widgets/sugurta_chipta_etc.dart';
 import 'package:treval_app/homepage/presentation/widgets/texts_main.dart';
-import 'package:treval_app/sevimlilar/presentation/widgets/chegirmalar_container.dart';
-
 class BottomContainer extends StatelessWidget {
   const BottomContainer({
     super.key,

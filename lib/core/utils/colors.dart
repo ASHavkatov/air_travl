@@ -7,7 +7,7 @@ class AppColor{
   static const textmain = Color(0xFF4B4B4B);
   static const chegirmacolor = Color(0xFFE4DC19);
   static const textfieldtext = Color(0xFFBDBDBD);
-  static const textfilebackground = Color(0xFFF5F5F5);
+  static const textfilebackground = Color(0xFFFF8A8A);
   static const shoshilingcontainer1 = Color(0xFF3BB77E);
   static const shoshilingcontainer2 = Color(0xFFF6980A);
   static const timecontainercolor = Color(0xFFFAFAFA);

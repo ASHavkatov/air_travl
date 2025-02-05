@@ -16,7 +16,7 @@ class TextFieldItem extends StatelessWidget {
               child: TextField(
                 decoration: InputDecoration(
                   filled: true,
-                  fillColor: AppColor.textfilebackground,
+                  fillColor: Colors.grey[200],
                   hintText: "Search",
                   hintStyle: TextStyle(
                     fontSize: 14,

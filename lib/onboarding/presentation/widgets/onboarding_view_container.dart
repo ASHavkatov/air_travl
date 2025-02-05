@@ -81,7 +81,7 @@ class OnboardingViewContainer extends StatelessWidget {
                   curve: Curves.easeInOut,
                 );
               } else {
-                context.go('/home');
+                context.go('/registration');
               }
             },
             child: Text(
